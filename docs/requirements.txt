@@ -1,0 +1,6 @@
+sphinx
+sphinx-rtd-theme
+sphinx-copybutton
+sphinx-togglebutton
+sphinx_design
+sphinx-new-tab-link
