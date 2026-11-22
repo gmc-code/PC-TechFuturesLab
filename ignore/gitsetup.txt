@@ -1,7 +1,7 @@
-echo "# PC_TechFuturesLab" >> README.md
+echo "# PC-TechFuturesLab" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
 git branch -M main
-git remote add origin https://github.com/gmc-code/PC_TechFuturesLab.git
+git remote add origin https://github.com/gmc-code/PC-TechFuturesLab.git
 git push -u origin main
