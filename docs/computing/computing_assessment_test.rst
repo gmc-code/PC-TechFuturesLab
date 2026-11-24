@@ -78,41 +78,10 @@ What to submit
 ---------------
 
 * The completed online test (submitted through the link your teacher gives you).
-* Your Grok summary notes, if your teacher asks for them.
+* Your Grok summary notes as a powerpoint presentation.
 
-Marking guide
---------------
+----
 
-.. list-table::
-   :header-rows: 1
-   :widths: 15 15 70
-
-   * - Score
-     - Grade guide
-     - What it shows
-   * - 19–20
-     - A+
-     - Excellent knowledge of all areas, and can apply it to new situations.
-   * - 17–18
-     - A
-     - Very good knowledge across all areas.
-   * - 15–16
-     - B
-     - Good knowledge of most areas.
-   * - 12–14
-     - C
-     - Satisfactory knowledge of the main ideas.
-   * - 9–11
-     - D
-     - Some knowledge, with gaps in several areas.
-   * - 0–8
-     - E / NP
-     - Limited knowledge. Revision and a resubmission will be needed.
-
-.. note::
-
-   The grade boundaries above are a guide. Your teacher will confirm the final boundaries for the test.
-   Tasks below a C standard must be resubmitted.
 
 Practice test
 --------------
